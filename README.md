@@ -1,6 +1,6 @@
 # prodigy-infotech-task3-DS-INTERNSHIP
 
-Successfully completed hashtag#task4 of my Data Science Internship at Prodigy InfoTech! 🎯
+Successfully completed task3 of my Data Science Internship at Prodigy InfoTech! 🎯
 
 Task 3: Building a Decision Tree Classifier for Customer Purchase Prediction.
 
